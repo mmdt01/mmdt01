@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mmdt01
-- 👀 I’m interested in Deep Learning
+- 👋 Hi, I’m Matthys du Toit
+- 👀 I’m interested in Machine Learning and Robotics
 - 🌱 I’m currently studying Integrated Mechanical and Electrical Engineering at the University of Bath
-- 💞️ I’m looking to collaborate on projects within Machine Learning
+<!-- - 💞️ I’m looking to collaborate on projects within Machine Learning -->
 - 📫 How to reach me: email: matthysdutoit100@gmail.com
 
 <!---
