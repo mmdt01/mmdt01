@@ -9,5 +9,3 @@ You can click the Preview link to take a look at your changes.
 - Currently researching the two-way relationship between natural and artificial intelligence in brain-computer interfaces with the University of Bath's Centre for Autonomous Robotics.
 - Aspire to gain further practical experience of applying ML and in research of creating general purpose learning systems with positive real-world impact.
 - From Cape Town, South Africa. Living in Bath, UK.
-- Love spending time outdoors and in nature. Passionate surfer, climber, and wildlife enthusiast. 
-- Big believer in the importance of living a balanced and mindful life.
